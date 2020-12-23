@@ -1,0 +1,26 @@
+CRIAR PROJETO
+
+criar com npx
+>npx crate ract-app web --template typescript
+
+criar com yarn 
+>yarn create react-app web --template typescript
+
+acessar pasta
+>cd web
+
+abrir no visual/ caso nao abra, va para o visual
+>code .
+>ctrl+shift+p: install code command in path 
+
+ir testando o projeto na web
+>yarn start
+
+VS
+img
+a
+div.
+
+yarn add react-router-dom
+dps de criar la file routes
+yarn add @types/react-router-dom -D (d= usar apenas desenvolvimento)
